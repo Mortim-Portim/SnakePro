@@ -14,3 +14,9 @@ SnakeProGo is the Go version of SnakePro, a professional snake game with the fol
     2. Extract the files into a folder
     3. Extract res.zip into the same folder
     4. Run SnakePro / SnakePro.exe
+
+***Parameter***
+
+    open res/params.txt
+    change values & save
+    restart game
