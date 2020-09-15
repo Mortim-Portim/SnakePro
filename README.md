@@ -20,3 +20,9 @@ SnakeProGo is the Go version of SnakePro, a professional snake game with the fol
     1. open res/params.txt
     2. change values & save
     3. restart game
+
+***Creating a custom Texturepack***
+
+    Duplicate "res/r_Standard" and rename the folder to "r_myRes"
+    Edit Pictures or replace them with your own (but always keep the name)
+    Change the Parameter "ResourceLoc" to "/r_myRes"
