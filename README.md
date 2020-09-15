@@ -1,4 +1,4 @@
-# SnakePro <img src="https://github.com/Mortim-Portim/SnakePro/blob/master/pics/logo.png" style="float:right" width="48" height="48" alt="Logo" /> <img src="https://github.com/Mortim-Portim/SnakePro/blob/master/pics/logo2.png" style="float:right" height="48" alt="Logo" />
+# SnakePro <img src="https://github.com/Mortim-Portim/SnakePro/blob/master/pics/logo.png" style="float:right" width="48" height="48" alt="Logo" /> <img src="https://github.com/Mortim-Portim/SnakePro/blob/master/pics/logo2.png" style="float:right" height="48" alt="Logo2" />
 
 
 SnakeProGo is the Go version of SnakePro, a professional snake game with the following features:
@@ -35,4 +35,8 @@ SnakeProGo is the Go version of SnakePro, a professional snake game with the fol
     to connect the phone to the PC find out your computers IP-address by looking it up in your wifi-settings (it's also displayed in the console)
     type the IP and the Port(default=8080) into the app and click "connect" (for example: IP=192.168.83.31, Port=8080)
     
+<img src="https://github.com/Mortim-Portim/SnakePro/blob/master/pics/screenshot.png" style="float:right" alt="screenshot1" />
+<img src="https://github.com/Mortim-Portim/SnakePro/blob/master/pics/screenshot2.png" style="float:right" alt="screenshot2" />
+<img src="https://github.com/Mortim-Portim/SnakePro/blob/master/pics/screenshot3.png" style="float:right" alt="screenshot3" />
+<img src="https://github.com/Mortim-Portim/SnakePro/blob/master/pics/screenshot4.png" style="float:right" alt="screenshot4" />
 
