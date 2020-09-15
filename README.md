@@ -35,5 +35,5 @@ SnakeProGo is the Go version of SnakePro, a professional snake game with the fol
     type the IP and the Port(default=8080) into the app and click "connect" (for example: IP=192.168.83.31, Port=8080)
     
 
-![Logo](https://github.com/Mortim-Portim/SnakePro/blob/master/Snake%20Pro%20LOGO.svg)Format: ![Alt Text](url)
+<img src="https://github.com/Mortim-Portim/SnakePro/blob/master/Snake%20Pro%20LOGO.svg" width="48">
 
