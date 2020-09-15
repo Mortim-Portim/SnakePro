@@ -1,6 +1,4 @@
-# SnakePro
-
-<img src="https://github.com/Mortim-Portim/SnakePro/blob/master/Snake%20Pro%20LOGO.svg" style="float:right; margin:0px 0px 15px 15px; cursor:pointer; cursor:hand; border:0" width="100" height="100" alt="Woman with child checking email" />
+# SnakePro <img src="https://github.com/Mortim-Portim/SnakePro/blob/master/Snake%20Pro%20LOGO.svg" style="float:right; margin:0px 0px 15px 15px; cursor:pointer; cursor:hand; border:0" width="100" height="100" alt="Woman with child checking email" />
 
 SnakeProGo is the Go version of SnakePro, a professional snake game with the following features:
 
