@@ -26,3 +26,10 @@ SnakeProGo is the Go version of SnakePro, a professional snake game with the fol
     duplicate "res/r_Standard" and rename the folder to "r_myRes"
     edit pictures and sounds or replace them with your own (but always keep the name)
     change the parameter "ResourceLoc" to "/r_myRes" (in "res/params.txt")
+
+***Connect android phone***
+    
+    to be able to connect an android phone and use it as a controller, you need to install SnakeControll.apk on your device.
+    than connect both the PC and your phone to the same wifi and start SnakePro
+    to connect the phone to the PC find out your computers IP-address by looking it up in your wifi-settings (it's also displayed in the console)
+    type the IP and the Port(default=8080) into the app and click "connect" (for example: IP=192.168.83.31, Port=8080)
