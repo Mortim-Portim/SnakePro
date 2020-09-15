@@ -17,6 +17,6 @@ SnakeProGo is the Go version of SnakePro, a professional snake game with the fol
 
 ***Parameter***
 
-    open res/params.txt
-    change values & save
-    restart game
+    1. open res/params.txt
+    2. change values & save
+    3. restart game
