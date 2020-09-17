@@ -37,7 +37,7 @@ SnakeProGo is the Go version of SnakePro, a professional snake game with the fol
     
 ## License
 
-Ebiten is licensed under Apache license version 2.0. See LICENSE file.
+SnakePro is licensed under Apache license version 2.0. See LICENSE file.
     
 ## Screenshots:
 
