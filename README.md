@@ -35,6 +35,10 @@ SnakeProGo is the Go version of SnakePro, a professional snake game with the fol
     to connect the phone to the PC find out your computers IP-address by looking it up in your wifi-settings (it's also displayed in the console)
     type the IP and the Port(default=8080) into the app and click "connect" (for example: IP=192.168.83.31, Port=8080)
     
+## License
+
+Ebiten is licensed under Apache license version 2.0. See LICENSE file.
+    
 ## Screenshots:
 
 <img src="https://github.com/Mortim-Portim/SnakePro/blob/master/pics/screenshot.png" style="float:right" alt="screenshot1" />
